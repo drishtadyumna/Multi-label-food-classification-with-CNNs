@@ -31,5 +31,8 @@
 
 5. A 6 page report exists in the form of report.pdf file.
 
+The images and their annotations can be downloaded from :- ![Data[(https://drive.google.com/uc?id=1sDCcgXbby8_v3Z59oRjrh1igEukx8HMI)
+
+![Sample image](https://github.com/drishtadyumna/Multi-label-food-classification-with-CNNs/blob/master/20151204_114821_3.jpg)
 
 	
