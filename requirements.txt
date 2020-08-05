@@ -1,0 +1,13 @@
+Following python librarires should be installed on your python environment before running the jupyter notebooks:
+
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Tensorflow
+4. Seaborn
+5. Tensorflow
+6. tarfile
+7. sklearn
+
+Note that for running the inference.py file, only first four of the above mentioned libraries will suffice.
+
