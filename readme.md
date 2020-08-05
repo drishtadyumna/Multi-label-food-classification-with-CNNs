@@ -31,7 +31,7 @@
 
 5. A 6 page report exists in the form of report.pdf file.
 
-The images and their annotations can be downloaded from :- ![Data[(https://drive.google.com/uc?id=1sDCcgXbby8_v3Z59oRjrh1igEukx8HMI)
+The images and their annotations can be downloaded from :- !(https://drive.google.com/uc?id=1sDCcgXbby8_v3Z59oRjrh1igEukx8HMI)
 
 Below is an sample image form the dataset.
 
