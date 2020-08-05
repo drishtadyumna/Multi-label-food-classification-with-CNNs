@@ -33,6 +33,8 @@
 
 The images and their annotations can be downloaded from :- ![Data[(https://drive.google.com/uc?id=1sDCcgXbby8_v3Z59oRjrh1igEukx8HMI)
 
-![Sample image](https://github.com/drishtadyumna/Multi-label-food-classification-with-CNNs/blob/master/20151204_114821_3.jpg)
+Below is an sample image form the dataset.
+
+![(https://github.com/drishtadyumna/Multi-label-food-classification-with-CNNs/blob/master/20151204_114821_3.jpg)
 
 	
